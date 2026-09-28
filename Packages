@@ -6,9 +6,9 @@ Author: You
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.1
 Installed-Size: 200
-Filename: debs/com.quietui.tweak_1.0.0_iphoneos-arm64.deb
-Size: 11998
-MD5sum: ddcd8d23b0776ca303fdb70105dfcad4
+Filename: debs/com.quietui.tweak_1.0.1_iphoneos-arm64.deb
+Size: 15210
+MD5sum: 2eef5eb24d8589308d25b1820be97678
 

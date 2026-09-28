@@ -5,10 +5,10 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: QuietUI tweak for Dopamine (rootless)
-Date: Mon, 28 Sep 2026 01:40:30 UTC
+Date: Mon, 28 Sep 2026 09:41:04 UTC
 MD5Sum:
- c8c5c92378ac7240b8a16e73c69a737f              424 Packages
- 32062df3361ea406c15c1e0570396832              320 Packages.gz
+ 554efff0de1166ce7206652f6eafb74c              424 Packages
+ 33d80ec4c764a164b33bfd7d909cb424              321 Packages.gz
 SHA256:
- 2d8edfe9d8a226b74bf5f38df933cea94d077be3675f139a01082ab08936ac90              424 Packages
- 852e4e9f1e964ccbb2718e440ddacea385b672f19989fa79cc0424d64689c8c6              320 Packages.gz
+ 5d9052827aca717fc553ffe2a6993fd4d5868853242cd9496e085a9653139eaf              424 Packages
+ 04247e444657361a20d57a120d44628c7920111ec260d207f0b8779872f12597              321 Packages.gz
