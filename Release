@@ -1,0 +1,14 @@
+Origin: QuietUI
+Label: QuietUI
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: QuietUI tweak for Dopamine (rootless)
+Date: Mon, 28 Sep 2026 01:40:30 UTC
+MD5Sum:
+ c8c5c92378ac7240b8a16e73c69a737f              424 Packages
+ 32062df3361ea406c15c1e0570396832              320 Packages.gz
+SHA256:
+ 2d8edfe9d8a226b74bf5f38df933cea94d077be3675f139a01082ab08936ac90              424 Packages
+ 852e4e9f1e964ccbb2718e440ddacea385b672f19989fa79cc0424d64689c8c6              320 Packages.gz

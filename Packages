@@ -1,0 +1,14 @@
+Package: com.quietui.tweak
+Name: QuietUI
+Description: Hide "No Older Notifications" and the battery percentage while charging.
+Maintainer: You
+Author: You
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 200
+Filename: debs/com.quietui.tweak_1.0.0_iphoneos-arm64.deb
+Size: 11998
+MD5sum: ddcd8d23b0776ca303fdb70105dfcad4
+
